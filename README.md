@@ -1,2 +1,2 @@
 # Blog Post
-Sentiment Analysis of Tweet Data in Python
+Sentiment Analysis of Twitter Data in Python
