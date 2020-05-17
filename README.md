@@ -4,11 +4,11 @@ Sentiment Analysis is the process of analyzing text data and interpret the senti
 
 We follow these three major steps :
 	
-***Fetching Tweets.***
+>Fetching Tweets.
 
-***Categorizing tweets regarding their sentiments (positive, negative or neutral).***
+>Categorizing tweets regarding their sentiments (positive, negative or neutral).
 
-***Examining tweets with word cloud and Hashtags.***
+>Examining tweets with word cloud and Hashtags.
 
 
 **1- Create a Developer Account**
