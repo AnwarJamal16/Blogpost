@@ -35,5 +35,5 @@ add the keys here that you have generated in step 1 in project file
 	access_secret = 'xxxxxxxxxxxxxxxxxxx'
 
 
-Read my Blog[post](https://developer.twitter.com/en/apply-for-access) for detail 
+	Read my Blog [post](https://medium.com/@samplecsn16/sentiment-analysis-of-twitter-data-in-python-2f41ba2b3ea5) for detail .
 
