@@ -35,7 +35,5 @@ add the keys here that you have generated in step 1 in project file
 	access_secret = 'xxxxxxxxxxxxxxxxxxx'
 
 
-
-
-
+Read my Blog[post](https://developer.twitter.com/en/apply-for-access) for detail 
 
