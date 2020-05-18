@@ -1,39 +1,48 @@
-# Sentiment Analysis of Twitter Data in Python
+# Data Science Blog Post Project
 
-Sentiment Analysis is the process of analyzing text data and interpret the sentiments behind it and determineswhether a piece of the information is positive, negative, or neutral Sentiment.We fetch 200 live tweets through the Twitter API to perform sentiments analysis.
+## Analysis of Twitter Data in Python
 
-We follow these three major steps :
+>Libraries use
 	
->Fetching Tweets.
+-pandas
 
->Categorizing tweets regarding their sentiments (positive, negative or neutral).
+-numpy
+	
+-matplotlib
+	
+-tweepy
 
->Examining tweets with word cloud and Hashtags.
+-nltk
 
+-textblob
 
-**1- Create a Developer Account**
+-wordcloud
 
-First create a developer account and apply for twitter application to get credentials, go to this [Link](https://developer.twitter.com/en/apply-for-access) and get access to a developer account.Once you register, create an app with a suitable name, and wait for the app to approve after that you will have access to Consumer Token, Consumer Secret, Access Key as well as Access Secret these keys will use in step 3 
+>Project motivation
 
-**2- Install Libraries**
+Twitter Sentiment Analysis helps to understand people’s views and feelings. It provides additional metrics to analyze the performance of products and services and provides opportunities for improvement
 
-We need to install and import the Twitter packages, to install packages use pip install command.
+>Files in the repository
 
-	pip install tweepy 
+-sentiment_analysis.ipynb: The main file that contains full source code of sentiment analysis.
 
+-readme.md
 
-**3-Authenticate app using credentials**
+>Summary of the results
 
-add the keys here that you have generated in step 1 in project file 
+-Categorizing tweets regarding their sentiments (positive, negative, or neutral).
 
-	consumer_key = 'xxxxxxxxxxxxxxxxxxxx'
+-Examining hashtags in tweets in a bar graph
 
-	consumer_secret = 'xxxxxxxxxxxxxxxxxxx'
+-Examining tweets sentiments with a word cloud
 
-	access_key= 'xxxxxxxxxxxxxxxxxxx'
+The main findings can be found [here](https://github.com/AnwarJamal16/Blogpost/blob/master/sentiment_analysis.ipynb).
 
-	access_secret = 'xxxxxxxxxxxxxxxxxxx'
+>Acknowledgements
 
+-Twitter (Tweets scrape throught Tweepy API)
 
-**Read my Blog [post](https://medium.com/@samplecsn16/sentiment-analysis-of-twitter-data-in-python-2f41ba2b3ea5) for detail.**
+-stackoverflow 
+
+**For more information visit my blog [post](https://medium.com/@samplecsn16/sentiment-analysis-of-twitter-data-in-python-2f41ba2b3ea5). **
 
