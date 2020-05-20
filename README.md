@@ -27,11 +27,11 @@ Twitter Sentiment Analysis helps to understand people’s views and feelings and
 
 > ### Summary of the results
 
-* Categorizing tweets regarding their sentiments (positive, negative, or neutral).
+* Predict writer's attitude or views towards a particular topic, product, etc. regarding sentiments (positive, negative, or neutral) in terms of percentage. 
 
-* Examining hashtags in tweets in a bar graph
+* What is the frequency or the importance of each word in tweets regarding sentiments. 
 
-* Examining tweets sentiments with a word cloud
+* What are top hashtags in tweets.
 
 #### The main findings can be found [here](https://github.com/AnwarJamal16/Blogpost/blob/master/sentiment_analysis.ipynb).  
 
